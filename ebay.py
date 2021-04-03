@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-#kira
+#Elliot
 from bs4 import BeautifulSoup
 import requests
 from termcolor import colored
